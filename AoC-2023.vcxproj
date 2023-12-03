@@ -19,6 +19,7 @@
     <ClInclude Include="Source\Day.h" />
     <ClInclude Include="Source\Day01.h" />
     <ClInclude Include="Source\Types.h" />
+    <ClInclude Include="Source\Utils.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6CDD7E78-58AA-D983-81C3-C72B6DEF0E12}</ProjectGuid>

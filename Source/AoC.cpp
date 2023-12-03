@@ -4,6 +4,7 @@ void AoC::Solve()
 {
 	for (Ref<Day> day : m_Days)
 	{
+		day->OnLoad();
 		day->OnSolve();
 	}
 

@@ -1,7 +1,7 @@
 #pragma once
 
 #include "Types.h"
-#include <iostream>
+#include "Utils.h"
 
 class Day
 {
