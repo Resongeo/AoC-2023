@@ -18,6 +18,7 @@
     <ClInclude Include="Source\AoC.h" />
     <ClInclude Include="Source\Day.h" />
     <ClInclude Include="Source\Day01.h" />
+    <ClInclude Include="Source\Timer.h" />
     <ClInclude Include="Source\Types.h" />
     <ClInclude Include="Source\Utils.h" />
   </ItemGroup>
